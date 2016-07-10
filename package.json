@@ -1,6 +1,6 @@
 {
   "name": "feliz.plug",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automate plugin loading for feliz.js projects",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "rxjs": "^5.0.0-beta.10",
-    "feliz.util": "0.0.1"
+    "feliz.util": "0.0.2"
   }
 }
