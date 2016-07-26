@@ -1,6 +1,6 @@
 {
   "name": "feliz.plug",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Automate plugin loading for feliz.js projects",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
@@ -22,8 +22,8 @@
     "precommit": "./node_modules/.bin/feliz.hooks pre-commit"
   },
   "dependencies": {
-    "rxjs": "^5.0.0-beta.10",
-    "feliz.util": "0.0.2"
+    "feliz.util": "0.0.5",
+    "rxjs": "^5.0.0-beta.10"
   },
   "devDependencies": {
     "feliz.hooks": "0.0.4",
